@@ -19,6 +19,8 @@
 
 - [Just Ask for Calibration: Strategies for Eliciting Calibrated Confidence Scores from Language Models Fine-Tuned with Human Feedback](https://arxiv.org/pdf/2305.14975.pdf) *Katherine Tian et.al.* EMNLP 2023.
 
+- [On Uncertainty Calibration and Selective Generation in Probabilistic Neural Summarization: A Benchmark Study](https://aclanthology.org/2023.findings-emnlp.197/) *Polina Zablotskaia et.al.* EMNLP 2023.
+
 - [Alignment for Honesty](https://arxiv.org/abs/2312.07000) *Yuqing Yang et.al.* Arxiv 2023.
 
 - [When Do LLMs Need Retrieval Augmentation? Mitigating LLMs’ Overconfidence Helps Retrieval Augmentation](https://arxiv.org/pdf/2402.11457.pdf) *Shiyu Ni et.al.* Arxiv 2024.

@@ -25,4 +25,6 @@
 
 - [When Do LLMs Need Retrieval Augmentation? Mitigating LLMs’ Overconfidence Helps Retrieval Augmentation](https://arxiv.org/pdf/2402.11457.pdf) *Shiyu Ni et.al.* Arxiv 2024.
 
+- [Fact-and-Reflection (FaR) Improves Confidence Calibration of Large Language Models](https://arxiv.org/abs/2402.17124) *Xinran Zhao et.al.* Arxiv 2024.
+
   

@@ -5,6 +5,8 @@
 ## Papers
 
 - [On Calibration of Modern Neural Networks](https://arxiv.org/abs/1706.04599) *Chuan Guo et.al.* ICML 2017.
+- [When Does Label Smoothing Help?](https://arxiv.org/pdf/1906.02629.pdf) *Rafael Müller et.al.* NeurIPS 2019.
+- [Calibration of Pre-trained Transformers](https://arxiv.org/abs/2003.07892) *Shrey Desai et.al.* EMNLP 2020.
 - [Revisiting the Calibration of Modern Neural Networks](https://arxiv.org/abs/2106.07998) *Matthias Minderer et.al.* NeurIPS 2021.
 
 - [How Can We Know When Language Models Know? On the Calibration of Language Models for Question Answering](https://aclanthology.org/2021.tacl-1.57/) *Zhengbao Jiang et.al.* TACL 2021.

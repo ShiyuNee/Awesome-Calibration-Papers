@@ -13,6 +13,10 @@
 
 - [Language Models (Mostly) Know What They Know](https://arxiv.org/abs/2207.05221) *Saurav Kadavath et.al.* Arxiv 2022.
 
+- [Calibrating Factual Knowledge in Pretrained Language Models](https://arxiv.org/abs/2210.03329) *Qingxiu Dong et.al.* EMNLP 2022.
+
+- [A Close Look into the Calibration of Pre-trained Language Models](https://arxiv.org/abs/2211.00151) *Yangyi Chen et.al.* ACL 2023.
+
 - [Do Large Language Models Know What They Don't Know?](https://arxiv.org/abs/2305.18153) *Zhangyue Yin et.al.* ACL 2023.
 
 - [Investigating the Factual Knowledge Boundary of Large Language Models with Retrieval Augmentation](https://arxiv.org/abs/2307.11019) *Ruiyang Ren et.al.* Arxiv 2023.

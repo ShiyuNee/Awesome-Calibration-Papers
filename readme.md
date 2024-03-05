@@ -13,7 +13,11 @@
 
 - [Language Models (Mostly) Know What They Know](https://arxiv.org/abs/2207.05221) *Saurav Kadavath et.al.* Arxiv 2022.
 
+- [Re-Examining Calibration: The Case of Question Answering](https://arxiv.org/abs/2205.12507) *Chenglei Si et.al.* EMNLP 2022.
+
 - [Calibrating Factual Knowledge in Pretrained Language Models](https://arxiv.org/abs/2210.03329) *Qingxiu Dong et.al.* EMNLP 2022.
+
+- [Prompting GPT-3 To Be Reliable](https://arxiv.org/abs/2210.09150) *Chenglei Si et.al.* ICLR 2023.
 
 - [A Close Look into the Calibration of Pre-trained Language Models](https://arxiv.org/abs/2211.00151) *Yangyi Chen et.al.* ACL 2023.
 

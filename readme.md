@@ -11,6 +11,8 @@
 
 - [How Can We Know When Language Models Know? On the Calibration of Language Models for Question Answering](https://aclanthology.org/2021.tacl-1.57/) *Zhengbao Jiang et.al.* TACL 2021.
 
+- [Teaching Models to Express Their Uncertainty in Words](https://arxiv.org/abs/2205.14334) *Stephanie Lin et.al.* TMLR 2020. 
+
 - [Language Models (Mostly) Know What They Know](https://arxiv.org/abs/2207.05221) *Saurav Kadavath et.al.* Arxiv 2022.
 
 - [Re-Examining Calibration: The Case of Question Answering](https://arxiv.org/abs/2205.12507) *Chenglei Si et.al.* EMNLP 2022.

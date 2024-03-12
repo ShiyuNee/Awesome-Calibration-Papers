@@ -6,6 +6,7 @@
 
 - [On Calibration of Modern Neural Networks](https://arxiv.org/abs/1706.04599) *Chuan Guo et.al.* ICML 2017.
 - [When Does Label Smoothing Help?](https://arxiv.org/pdf/1906.02629.pdf) *Rafael Müller et.al.* NeurIPS 2019.
+- [Calibrating Deep Neural Networks using Focal Loss](https://arxiv.org/abs/2002.09437) *Jishnu Mukhoti et.al.* NeurIPS 2020.
 - [Calibration of Pre-trained Transformers](https://arxiv.org/abs/2003.07892) *Shrey Desai et.al.* EMNLP 2020.
 - [Revisiting the Calibration of Modern Neural Networks](https://arxiv.org/abs/2106.07998) *Matthias Minderer et.al.* NeurIPS 2021.
 

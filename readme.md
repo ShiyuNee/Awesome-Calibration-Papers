@@ -26,7 +26,7 @@
 
 - [Training Verifiers to Solve Math Word Problems](https://arxiv.org/abs/2110.14168) *Karl Cobbe et.al.* Arxiv 2021.
 
-- [Reducing Conversational Agents’ Overconfidence Through Linguistic Calibration](https://aclanthology.org/2022.tacl-1.50.pdf)] *Sabrina J. Mielke et.al.* TACL 2022.
+- [Reducing Conversational Agents’ Overconfidence Through Linguistic Calibration](https://aclanthology.org/2022.tacl-1.50.pdf) *Sabrina J. Mielke et.al.* TACL 2022.
 
 - [Teaching Models to Express Their Uncertainty in Words](https://arxiv.org/abs/2205.14334) *Stephanie Lin et.al.* TMLR 2022. 
 

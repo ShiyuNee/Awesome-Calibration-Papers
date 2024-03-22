@@ -84,7 +84,7 @@
 
 - [Large Language Models Cannot Self-Correct Reasoning Yet](https://arxiv.org/abs/2310.01798) *Jie Huang et.al.* ICLR 2024.
 
-- [Calibrated Language Models Must Hallucinate]([Adam Tauman Kalai](https://arxiv.org/search/cs?searchtype=author&query=Kalai,+A+T)) *Adam Tauman Kalai et.al.* STOC 2024.
+- [Calibrated Language Models Must Hallucinate](https://arxiv.org/abs/2311.14648) *Adam Tauman Kalai et.al.* STOC 2024.
 
 - [When Do LLMs Need Retrieval Augmentation? Mitigating LLMs’ Overconfidence Helps Retrieval Augmentation](https://arxiv.org/pdf/2402.11457.pdf) *Shiyu Ni et.al.* Arxiv 2024.
 

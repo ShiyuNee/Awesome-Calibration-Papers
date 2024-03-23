@@ -78,6 +78,8 @@
 
 - [Alignment for Honesty](https://arxiv.org/abs/2312.07000) *Yuqing Yang et.al.* Arxiv 2023.
 
+- [Can LLMs Express Their Uncertainty? An Empirical Evaluation of Confidence Elicitation in LLMs](https://arxiv.org/abs/2306.13063) *Miao Xiong et.al.* ICLR 2024.
+
 - [Batch Calibration: Rethinking Calibration for In-Context Learning and Prompt Engineering](https://arxiv.org/abs/2309.17249) *Han Zhou et.al.* ICLR 2024.
 
 - [LitCab: Lightweight Language Model Calibration over Short- and Long-form Responses](https://arxiv.org/abs/2310.19208) *Xin Liu et.al.* ICLR 2024.

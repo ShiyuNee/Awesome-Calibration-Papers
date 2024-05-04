@@ -47,5 +47,7 @@
 - [Large Language Models Cannot Self-Correct Reasoning Yet](https://arxiv.org/abs/2310.01798) *Jie Huang et.al.* ICLR 2024.
 - [Calibrated Language Models Must Hallucinate](https://arxiv.org/abs/2311.14648) *Adam Tauman Kalai et.al.* STOC 2024.
 - [When Do LLMs Need Retrieval Augmentation? Mitigating LLMs’ Overconfidence Helps Retrieval Augmentation](https://arxiv.org/pdf/2402.11457.pdf) *Shiyu Ni et.al.* Arxiv 2024.
-- [Fact-and-Reflection (FaR) Improves Confidence Calibration of Large Language Models](https://arxiv.org/abs/2402.17124) *Xinran Zhao et.al.* Arxiv 2024.
-- [Linguistic Calibration of Language Models](https://arxiv.org/abs/2404.00474) *Neil Band et.al.* Arxiv 2024.
+- [Fact-and-Reflection (FaR) Improves Confidence Calibration of Large Language Models](https://arxiv.org/abs/2402.17124) *Xinran Zhao et.al.* Arxiv 2024.02.27
+- [Linguistic Calibration of Language Models](https://arxiv.org/abs/2404.00474) *Neil Band et.al.* Arxiv 2024.03.30
+- [Enhancing Confidence Expression in Large Language Models Through Learning from Past Experience](https://arxiv.org/abs/2404.10315) *Haixia Han et.al.* Arxiv 2024.04.16
+- [When to Trust LLMs: Aligning Confidence with Response Quality](https://arxiv.org/abs/2404.17287) *Shuchang Tao et.al.* Arxiv 2024.04.26

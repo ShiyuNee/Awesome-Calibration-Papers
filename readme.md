@@ -51,3 +51,4 @@
 - [Linguistic Calibration of Language Models](https://arxiv.org/abs/2404.00474) *Neil Band et.al.* Arxiv 2024.03.30
 - [Enhancing Confidence Expression in Large Language Models Through Learning from Past Experience](https://arxiv.org/abs/2404.10315) *Haixia Han et.al.* Arxiv 2024.04.16
 - [When to Trust LLMs: Aligning Confidence with Response Quality](https://arxiv.org/abs/2404.17287) *Shuchang Tao et.al.* Arxiv 2024.04.26
+- [FLAME: Factuality-Aware Alignment for Large Language Models](https://arxiv.org/abs/2405.01525) *Sheng-Chieh Lin et.al.*
